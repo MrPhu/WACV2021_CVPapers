@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Mr Phu Git-Pages
+1. Paper Note: [https://mrphu.github.io/Personal-Paper-Notes/](https://mrphu.github.io/Personal-Paper-Notes/)
+2. CVPR2021 Collection: [https://mrphu.github.io/CVPR2021_CVPapers/](https://mrphu.github.io/CVPR2021_CVPapers/)
+3. WACV 2021 Collection: [https://mrphu.github.io/WACV2021_CVPapers/](https://mrphu.github.io/WACV2021_CVPapers/)
 
-You can use the [editor on GitHub](https://github.com/MrPhu/WACV2021_CVPapers/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+--------------------------------------------------------------------------------------------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrPhu/WACV2021_CVPapers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# WACV_2021 Computer Vision Paper Collection
+- Best Paper: [DeepCSR: A 3D Deep Learning Approach For Cortical Surface Reconstruction](https://openaccess.thecvf.com/content/WACV2021/html/Santa_Cruz_DeepCSR_A_3D_Deep_Learning_Approach_for_Cortical_Surface_Reconstruction_WACV_2021_paper.html) [_[Video]_](https://www.youtube.com/watch?v=06dCg-PkL2w)
+- Best Student Paper: [A Pose Proposal and Refinement Network for Better 6D Object Pose Estimation](https://openaccess.thecvf.com/content/WACV2021/papers/Trabelsi_A_Pose_Proposal_and_Refinement_Network_for_Better_6D_Object_WACV_2021_paper.pdf) [_[Video]_](https://crossminds.ai/video/best-student-paper-a-pose-proposal-and-refinement-network-for-better-6d-object-pose-estimation-602f247c94d91c80b4b1415c/?playlist_id=5ff3ab3914f97fef9bcc16c1)
+- Best Paper Honorable Mention [Meta Module Network for Compositional Visual Reasoning](https://arxiv.org/abs/1910.03230) [_[Video]_](https://crossminds.ai/video/best-paper-honorable-mention-meta-module-network-for-compositional-visual-reasoning-602f247862aacf35bab1416f/?playlist_id=5ff3ab3914f97fef9bcc16c1)
+### 
+###
